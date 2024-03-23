@@ -4,6 +4,9 @@ Key components of the project may include:
 
 Market Analysis: Examining the demand for data science professionals across different industries and sectors. This involves identifying industries that heavily rely on data science expertise and understanding the specific roles within those industries.
 
+
+![Data-Science-Salaries-1](https://github.com/Tinku-Choudhary-1992/jobs-and-salaries-in-datascience/assets/162289654/d11d0376-0e9a-4878-974f-18a9172750dc)
+
 Skills and Qualifications: Investigating the skills and qualifications that employers seek in data science candidates. This may include programming languages, statistical analysis, machine learning techniques, domain knowledge, and soft skills such as communication and problem-solving.
 
 Geographical Trends: Analyzing the geographical distribution of data science jobs to identify regions with high demand and job growth in the field. This could involve comparing job opportunities in different countries, states, or cities.
